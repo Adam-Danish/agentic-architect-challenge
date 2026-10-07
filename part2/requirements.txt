@@ -1,3 +1,4 @@
 trafilatura
 google-genai
 playwright
+streamlit
